@@ -10,5 +10,7 @@ This project implements a real-time emotion detection as well as simple emotion 
 **Frame-Level Prediction**: The system predicts the predominant emotion in each frame of the video stream.
 
 **Important Note:** 
+
 1.The gui.py corresponds to simple emotion detection in form of images.
+
 2.The guir.py corresponds to real time emotion analysis in each frame of the video stream.
