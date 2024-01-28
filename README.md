@@ -6,6 +6,7 @@ This project implements a real-time emotion detection as well as simple emotion 
 **Features**
 
 **Real-Time Processing**: Continuous analysis of streaming video frames for instant emotion detection.
+
 **Frame-Level Prediction**: The system predicts the predominant emotion in each frame of the video stream.
 
 **Important Note:** 
